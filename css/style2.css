@@ -1,0 +1,14 @@
+* {
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+#video-fake{
+    float: right;
+    float: left;
+    margin: 0;
+    padding: 0;
+    border-style: none;
+    width: 100vw;
+    height: 100vh;
+}
